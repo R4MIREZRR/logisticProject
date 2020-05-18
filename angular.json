@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "logisticProject"
+    }
+  },
+  "defaultProject": "logisticProject",
+  "cli": {
+    "analytics": false
+  }
 }
